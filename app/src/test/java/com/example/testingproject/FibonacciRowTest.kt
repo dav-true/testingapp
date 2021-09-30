@@ -1,9 +1,13 @@
 package com.example.testingproject
 
+import com.example.testingproject.helpers.FibonacciRow
 import com.google.common.truth.Truth.assertThat
 import org.junit.Test
 
 class FibonacciRowTest {
+
+
+
 
     @Test
     fun `Check fibonacci function`() {

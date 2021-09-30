@@ -1,4 +1,4 @@
-package com.example.testingproject
+package com.example.testingproject.helpers
 
 
 object FibonacciRow {
